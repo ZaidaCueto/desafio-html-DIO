@@ -5,4 +5,4 @@ Utilizar todas as tags explicadas nas aulas praticas
 
 ## Deploy
 
-Disponível no github pages
+Disponível no netlify https://desasfio-html-dio.netlify.app/
